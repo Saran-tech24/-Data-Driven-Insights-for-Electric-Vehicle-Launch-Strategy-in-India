@@ -1,4 +1,4 @@
-# -Data-Driven-Insights-for-Electric-Vehicle-Launch-Strategy-in-India
+# Data-Driven-Insights-for-Electric-Vehicle-Launch-Strategy-in-India
 
 **Overview**
      
