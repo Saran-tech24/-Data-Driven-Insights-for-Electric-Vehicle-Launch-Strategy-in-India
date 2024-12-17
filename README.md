@@ -2,7 +2,7 @@
 
 **Overview**
      
-     AtliQ Motors, a leader in the electric vehicle (EV) and hybrid market in North America, is looking to expand its presence in India.
+AtliQ Motors, a leader in the electric vehicle (EV) and hybrid market in North America, is looking to expand its presence in India.
 With a current market share of less than 2% in India, a comprehensive market analysis is required to identify growth opportunities and strategies.
 This repository contains the complete data analysis and visualization performed as part of the market study, along with an interactive dashboard and actionable insights.
 
