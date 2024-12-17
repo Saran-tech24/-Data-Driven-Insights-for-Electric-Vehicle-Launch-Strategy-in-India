@@ -72,4 +72,5 @@ Provided actionable insights based on the analysis to help AtliQ Motors capture 
 3.Forecasting models for future EV sales
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/59ac20af-f768-4f59-9a49-84d576bf21d2)
-![Screenshot (2)](https://github.com/user-attachments/assets/32faa49e-36d8-4269-998c-82c31876698f)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/fd662a07-0cbe-4bc4-ad8e-0df968403bee)
